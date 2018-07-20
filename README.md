@@ -1,7 +1,7 @@
 # incident-response-lists
 Incident and Breach Response Checklists from various industries
 
-## Incident Response
+## General Incident Response
 
 - [PagerDuty Incident Response](https://response.pagerduty.com/)
   > This documentation covers parts of the PagerDuty Incident Response
@@ -12,6 +12,17 @@ Incident and Breach Response Checklists from various industries
   > after. It is intended to be used by on-call practitioners and those
   > involved in an operational incident response process (or those
   > wishing to enact a formal incident response process).
+
+## Computer Security Incident Response
+
+- [NIST 800-61 Computer Security Incident Handling
+Guide](https://www.nist.gov/publications/computer-security-incident-handling-guide)
+  > This publication assists organizations in establishing computer
+  > security incident response capabilities and handling incidents
+  > efficiently and effectively. Topics covered include organizing a
+  > computer security incident response capability, handling incidents
+  > from initial preparation through the post-incident lessons learned
+  > phase, and handling specific types of incidents.
 
 ## Breach Response
 
