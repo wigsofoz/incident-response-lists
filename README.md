@@ -1,5 +1,7 @@
 # incident-response-lists
-Incident and Breach Response Checklists from various industries
+
+A curated list of references to Incident and Breach Response Checklists
+from various industries.
 
 ## General Incident Response
 
