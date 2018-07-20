@@ -23,6 +23,11 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
   > computer security incident response capability, handling incidents
   > from initial preparation through the post-incident lessons learned
   > phase, and handling specific types of incidents.
+- [IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
+  > CERT Societe Generale provides easy to use operational incident best
+  > practices. These cheat sheets are dedicated to incident handling and
+  > cover multiple fields in which a CERT team can be involved. One IRM
+  > exists for each security incident we're used to dealing with.
 
 ## Breach Response
 
