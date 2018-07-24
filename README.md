@@ -14,6 +14,8 @@ from various industries.
   > after. It is intended to be used by on-call practitioners and those
   > involved in an operational incident response process (or those
   > wishing to enact a formal incident response process).
+- [New Relic](https://blog.newrelic.com/2018/02/13/new-relic-incident-response/)
+- [Adobe](https://www.adobe.com/content/dam/acom/en/security/pdfs/adb-incident-response-overview.pdf)
 
 ## Computer Security Incident Response
 
@@ -30,6 +32,7 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
   > practices. These cheat sheets are dedicated to incident handling and
   > cover multiple fields in which a CERT team can be involved. One IRM
   > exists for each security incident we're used to dealing with.
+- [Cloud.gov](https://cloud.gov/docs/ops/security-ir/)
 
 ## Breach Response
 
@@ -46,4 +49,7 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
   > all aspects of the Privacy BRT process from initiation through close
   > out. 
 
+## Post Incident Activities
+
+- [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 
