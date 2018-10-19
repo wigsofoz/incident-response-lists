@@ -1,7 +1,7 @@
 # incident-response-lists
 
-A curated list of references to Incident and Breach Response Checklists
-from various industries.
+A curated list of references to Incident and Breach Response checklists,
+procedures and policies from various industries.
 
 ## General Incident Response
 
@@ -42,7 +42,7 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
   > the privacy breach response requirements in Appendix I of Information
   > Technology Security Handbook (ITS-HBK)-2810.09-02A, Incident Response
   > and Management: NASA Information Security Incident Management. A
-  >  well-prepared and trained BRT is key to NASA’s successfully meeting
+  > well-prepared and trained BRT is key to NASA’s successfully meeting
   > the communication and notification requirements outlined within NASA
   > policy as it relates to a breach of Sensitive Personally Identifiable
   > Information (PII). The BRT checklist serves as an aid to Centers in
@@ -53,3 +53,13 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
 
 - [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 
+
+https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901
+
+## Books
+
+Intelligence Driven Incident Response by Scott J. Roberts and Rebekah Brown
+Incident Response & Computer forensics 3rd edition (McGraw Hill),
+the art of memory forensics
+
+FireEye/Mandiants APT reports, CrowdStrike also have some great reports to.
