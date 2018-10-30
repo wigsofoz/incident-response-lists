@@ -35,6 +35,7 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
 - [Cloud.gov](https://cloud.gov/docs/ops/security-ir/)
 - [SecurityColony Incident Response](https://portal.securitycolony.com/Incident-Response)
   (free registration required)
+- [CERT NZ - Incident response: planning for when things go wrong](https://www.cert.govt.nz/businesses-and-individuals/guides/cyber-security-your-business/incident-response/)
 
 ## Breach Response
 
