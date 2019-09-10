@@ -52,6 +52,19 @@ Guide](https://www.nist.gov/publications/computer-security-incident-handling-gui
   > all aspects of the Privacy BRT process from initiation through close
   > out. 
 
+## Vendor-Specific Digital Forensics and Incident Response
+
+### Cisco
+
+Cisco publish incident response guides on their [Tactical Resources](https://tools.cisco.com/security/center/tacticalresources.x)
+site, including product specific guides such as:
+
+- [Cisco ASA (Adaptive Security Appliance)](https://tools.cisco.com/security/center/resources/asa_forensic_investigation) -- software running on security devices that combine firewall, antivirus, intrusion prevention, and virtual private network (VPN) capabilities.
+- [Cisco IOS (Internetwork Operating System)](https://tools.cisco.com/security/center/resources/ios_forensic_investigation) -- a proprietary OS running on most Cisco switches and routers.
+- [Cisco IOS XE](https://tools.cisco.com/security/center/resources/iosxe_forensic_guide) -- a Linux-based OS running on Cisco switches and routers.
+- [Cisco FTD (Firepower Threat Defense)](https://tools.cisco.com/security/center/resources/ftd_forensic_investigation) -- software combining Cisco's ASA and Firepower technology. Deployed on Cisco's firewall hardware.
+
+
 ## Post Incident Activities
 
 - [Etsy Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
